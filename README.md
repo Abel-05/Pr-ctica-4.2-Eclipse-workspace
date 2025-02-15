@@ -1,3 +1,3 @@
 # Workspace de Eclipse
 
-aqui añadiré informacion mas adelante del proyecto
+he creado 2 clases de java, una dice hola mundo y la otra dice adios mundo.
